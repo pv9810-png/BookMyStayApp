@@ -8,6 +8,9 @@ public class BookMyStayUseCase1 {
         System.out.println("Welcome to the Book My Stay platform!");
         System.out.println("The system has started successfully.");
         System.out.println("=======================================");
+        BookMyStayUseCase2.availability();
+        BookMyStayUseCase3.run();
+        BookMyStayUseCase4.run();
 
     }
 }
