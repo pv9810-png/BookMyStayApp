@@ -12,6 +12,7 @@ public class BookMyStayUseCase1 {
         BookMyStayUseCase3.run();
         BookMyStayUseCase4.run();
         BookMyStayUseCase5.run();
+        BookMyStayUseCase6.run();
 
     }
 }
